@@ -1,3 +1,2 @@
-# Quiz app
-# Juba @ Bongo Academy
-# www.bongoacademy.com
+#Quiz app
+#com mehedi 
